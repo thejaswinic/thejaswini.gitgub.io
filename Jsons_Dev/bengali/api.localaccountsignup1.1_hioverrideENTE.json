@@ -1,0 +1,401 @@
+﻿{
+  "LocalizedStrings": [
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "ver_but_default",
+      "Value": "डिtestనమూనాफ़ॉल्ट"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "cancel_message",
+      "Value": "उपयोगकtestనమూనాर्ता ने अपने से जुड़ी जानकारी दर्ज करना रद्द कर दिया है"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "preloader_alt",
+      "Value": "कृपया प्रतीtestనమూనాक्षा करें"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "ver_but_send",
+      "Value": "पुष्टिकरण testనమూనాकोड भेजें"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "alert_yes",
+      "Value": "हाँtestనమూనా"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "error_fieldIncorrect",
+      "Value": "एक या अधिक testనమూనాफ़ील्ड गलत भरी गई हैं. कृपया अपनी प्रविष्टियों को जाँचें और पुनः प्रयास करें."
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "year",
+      "Value": "testనమూనాवर्ष"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "verifying_blurb",
+      "Value": "कृपया प्रतीक्षाtestనమూనా करें तब तक हम आपकी जानकारी को संसाधित कर रहे हैं."
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "button_cancel",
+      "Value": "रद्दtestనమూనాकरें"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "ver_fail_no_retry",
+      "Value": "आपने बहुत अttestనమూనాधिक गलत प्रयास कर लिए हैं. कृपया बाद में पुनः प्रयास करें."
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "month",
+      "Value": "महीtestనమూనాना"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "months",
+      "Value": "जनवरी, फरवरी, माtestనమూనాaर्च, अप्रैल, मई, जून, जुलाई, अगस्त, सितंबर, अक्तूबर, नवंबर, दिसंबर"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "ver_success_msg",
+      "Value": "ईमेल पते की पुtestనమూనాष्टि की गई. अब आप जारी रख सकते हैं."
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "ver_fail_server",
+      "Value": "आपके ईमेल पतेtestనమూనా की पुष्टि करने में हमें समस्या हो रही है. कृपया बाद में पुनः प्रयास करें."
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "error_requiredFieldMissing",
+      "Value": "आवश्यक फ़ील्ड अनुपलब्ध testనమూనాहै. कृपया सभी आवश्यक फ़ील्ड भरें और पुनः प्रयास करें."
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "initial_intro",
+      "Value": "कृपया निम्नलिtestనమూనాखित विवरण प्रदान करें."
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "ver_but_resend",
+      "Value": "नया कोtestనమూనాड भेजें"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "button_continue",
+      "Value": "बनाtestనమూనాएँ"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "error_passwordEntryMismatch",
+      "Value": "पासवर्ड दर्ज करने कीtestనమూనా फ़ील्ड मेल नहीं खा रही है. कृपया दोनों फ़ील्ड में एक ही पासवर्ड दर्ज करें और पुनः प्रयास करें."
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "ver_incorrect_format",
+      "Value": "गलत testనమూనాप्रारूप."
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "ver_but_edit",
+      "Value": "ईमेलtestనమూనా बदलें"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "alert_no",
+      "Value": "नहींtestనమూనా"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "ver_but_verify",
+      "Value": "कोड की पुtestనమూనాष्टि करें"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "ver_info_msg",
+      "Value": "पुष्टिकरण कोtestనమూనాड आपके इनबॉक्स में भेज दिया गया है. कृपया नीचे दिए गए इनपुट बॉक्स में इसकी प्रतिलिपि बनाएँ."
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "day",
+      "Value": "दिtestనమూనాन"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "ver_fail_throttled",
+      "Value": "इस ईमेल पते कीtestనమూనా पुष्टि करने के लिए कई अनुरोध हुए हैं. कृपया कुछ क्षण प्रतीक्षा करें, फिर पुनः प्रयास करें."
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "helplink_text",
+      "Value": "यह testనమూనాक्या है?"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "ver_fail_retry",
+      "Value": "कोड गलतtestనమూనాहै. कृपया पुनः प्रयास करें."
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "alert_title",
+      "Value": "अपना विवरणtestనమూనా दर्ज करना रद्द करें"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "required_field",
+      "Value": "यह जानकारी testనమూనాआवश्यक है."
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "alert_message",
+      "Value": "क्या आप वाकई अtestనమూనాपने विवरण दर्ज करना रद्द करना चाहते हैं?"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "ver_intro_msg",
+      "Value": "पुष्टिकरण अनिवार्यtestనమూనా है. कृपया भेजें बटन क्लिक करें."
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "ver_input",
+      "Value": "पुष्टिकtestనమూనాरण कोड"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "UserId",
+      "StringId": "DisplayName",
+      "Value": "उपयोगtestనమూనాकर्ता नाम"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "UserId",
+      "StringId": "UserHelpText",
+      "Value": "साइन इनtestనమూనా करने के लिए उपयोग किया गया उपयोगकर्ता नाम."
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "UserId",
+      "StringId": "PatternHelpText",
+      "Value": "आपके द्वारा प्रदाtestనమూనాन किया गया उपयोगकर्ता नाम मान्य नहीं है. इसकी शुरुआत अक्षर या संख्या से होनी चाहिए और इसमें अक्षर, संख्या और निम्नलिखित प्रतीक होने चाहिए: _ -"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "password",
+      "StringId": "DisplayName",
+      "Value": "पासवtestనమూనాर्ड"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "password",
+      "StringId": "UserHelpText",
+      "Value": "साइन इन के लिए उपtestనమూనాयोग किया जाने वाला इच्छित पासवर्ड दर्ज करें."
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "password",
+      "StringId": "PatternHelpText",
+      "Value": "8-16 वर्ण, जिसमें निम्नलिखितtestనమూనా 4 में से 3 शामिल हैं: छोटे वर्ण, बड़े वर्ण, संख्या (0-9), और निम्नलिखित प्रतीकों में से एक या अधिक: @ # $ % ^ & * - _ + = . [ ] { } | \\ : ' , ; ? / ` ~ \" ( ) ; ."
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "email",
+      "StringId": "DisplayName",
+      "Value": "ईमेलtestనమూనా पता"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "email",
+      "StringId": "UserHelpText",
+      "Value": "आपसे संपर्क करनेtestనమూనా के लिए ईमेल पते का उपयोग किया जा सकता है."
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "email",
+      "StringId": "PatternHelpText",
+      "Value": "कृपया मान्य ईमेलtestనమూనా पता दर्ज करें."
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "surname",
+      "StringId": "DisplayName",
+      "Value": "उपtestనమూనా नाम"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "surname",
+      "StringId": "UserHelpText",
+      "Value": "आपका उप नाम (पtestనమూనాरिवार के नाम या अंतिम नाम के रूप में भी जाना जाता है)."
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "jobTitle",
+      "StringId": "DisplayName",
+      "Value": "पद नाtestనమూనాम"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "jobTitle",
+      "StringId": "UserHelpText",
+      "Value": "आपका testనమూనాपद नाम."
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "streetAddress",
+      "StringId": "DisplayName",
+      "Value": "गली काtestనమూనా पता"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "streetAddress",
+      "StringId": "UserHelpText",
+      "Value": "उस गली का पtestనమూనాता जहाँ आप रहते हैं."
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "city",
+      "StringId": "DisplayName",
+      "Value": "शtestనమూనాहर"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "city",
+      "StringId": "UserHelpText",
+      "Value": "वह शहर जिसtestనమూనాमें आप रहते हैं."
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "postalCode",
+      "StringId": "DisplayName",
+      "Value": "पोस्टल testనమూనాड"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "postalCode",
+      "StringId": "UserHelpText",
+      "Value": "आपके पते का testనమూనాपोस्टल कोड."
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "state",
+      "StringId": "DisplayName",
+      "Value": "राज्य/testనమూనాप्रांत"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "state",
+      "StringId": "UserHelpText",
+      "Value": "आपका निवासी राज्य testనమూనాया प्रांत."
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "country",
+      "StringId": "DisplayName",
+      "Value": "देशtestనమూనా/क्षेत्र"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "country",
+      "StringId": "UserHelpText",
+      "Value": "वह देश/फ़ील्ड testనమూనాजहाँ पर आप रहते हैं."
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "displayName",
+      "StringId": "DisplayName",
+      "Value": "प्रदर्शन testనమూనాनाम"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "displayName",
+      "StringId": "UserHelpText",
+      "Value": "आपका प्रtestనమూనాदर्शन नाम."
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "givenName",
+      "StringId": "DisplayName",
+      "Value": "दिया गया testనమూనాनाम"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "givenName",
+      "StringId": "UserHelpText",
+      "Value": "आपका दिया गया नाtestనమూనాम (पहले नाम के रूप में भी जाना जाता है)."
+    },
+    {
+      "ElementType": "ErrorMessage",
+      "ElementId": null,
+      "StringId": "UserMessageIfClaimsPrincipalAlreadyExists",
+      "Value": "निर्दिष्ट ID वाtestనమూనాला उपयोगकर्ता पहले से मौजूद है. कृपया कोई दूसरा उपयोगकर्ता चुनें."
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "newPassword",
+      "StringId": "DisplayName",
+      "Value": "नया testనమూనాपासवर्ड"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "newPassword",
+      "StringId": "UserHelpText",
+      "Value": "नया पासवर्ड दर्ज करें"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "newPassword",
+      "StringId": "PatternHelpText",
+      "Value": "8-16 वर्ण, जिसमें testనమూనాनिम्नलिखित 4 में से 3 शामिल है: छोटे वर्ण, बड़े वर्ण, संख्या (0-9), और निम्नलिखित प्रतीकों में से एक या अधिक: @ # $ % ^ & * - _ + = . [ ] { } | \\ : ' , ; ? / ` ~ \" ( )"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "reenterPassword",
+      "StringId": "DisplayName",
+      "Value": "नए पासवर्ड की पुtestనమూనాष्टि करें"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "reenterPassword",
+      "StringId": "UserHelpText",
+      "Value": "नए पासवर्ड कीtestనమూనా पुष्टि करें"
+    }
+  ],
+  "LocalizedCollections": []
+}

@@ -1,0 +1,317 @@
+{
+  "LocalizedStrings": [
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "ver_but_default",
+      "Value": "test ఇమెయిల్ डिफ़ॉल्ट"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "cancel_message",
+      "Value": "test ఇమెయిల్ उपयोगकर्ता ने अपने से जुड़ी जानकारी दर्ज करना रद्द कर दिया है"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "preloader_alt",
+      "Value": "test ఇమెయిల్ कृपया प्रतीक्षा करें"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "ver_but_send",
+      "Value": "test ఇమెయిల్ पुष्टिकरण कोड भेजें"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "alert_yes",
+      "Value": "test ఇమెయిల్ हाँ"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "error_fieldIncorrect",
+      "Value": "test ఇమెయిల్ एक या अधिक फ़ील्ड गलत भरी गई हैं. कृपया अपनी प्रविष्टियों को जाँचें और पुनः प्रयास करें."
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "year",
+      "Value": "test ఇమెయిల్ वर्ष"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "verifying_blurb",
+      "Value": "test ఇమెయిల్ कृपया प्रतीक्षा करें तब तक हम आपकी जानकारी को संसाधित कर रहे हैं."
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "button_cancel",
+      "Value": "test ఇమెయిల్ रद्द करें"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "ver_fail_no_retry",
+      "Value": "test ఇమెయిల్ आपने बहुत अधिक गलत प्रयास कर लिए हैं. कृपया बाद में पुनः प्रयास करें."
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "month",
+      "Value": "test ఇమెయిల్ महीना"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "months",
+      "Value": "test ఇమెయిల్ जनवरी, फरवरी, मार्च, अप्रैल, मई, जून, जुलाई, अगस्त, सितंबर, अक्तूबर, नवंबर, दिसंबर"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "ver_success_msg",
+      "Value": "test ఇమెయిల్ ईमेल पते की पुष्टि की गई. अब आप जारी रख सकते हैं."
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "ver_fail_server",
+      "Value": "test ఇమెయిల్ आपके ईमेल पते की पुष्टि करने में हमें समस्या हो रही है. कृपया बाद में पुनः प्रयास करें."
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "error_requiredFieldMissing",
+      "Value": "test ఇమెయిల్ आवश्यक फ़ील्ड अनुपलब्ध है. कृपया सभी आवश्यक फ़ील्ड भरें और पुनः प्रयास करें."
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "initial_intro",
+      "Value": "test ఇమెయిల్ कृपया निम्नलिखित विवरण प्रदान करें."
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "ver_but_resend",
+      "Value": "test ఇమెయిల్ नया कोड भेजें"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "button_continue",
+      "Value": "test ఇమెయిల్ जारी रखें"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "error_passwordEntryMismatch",
+      "Value": "test ఇమెయిల్ पासवर्ड दर्ज करने की फ़ील्ड मेल नहीं खा रही है. कृपया दोनों फ़ील्ड में एक ही पासवर्ड दर्ज करें और पुनः प्रयास करें."
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "ver_incorrect_format",
+      "Value": "test ఇమెయిల్ गलत प्रारूप."
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "ver_but_edit",
+      "Value": "test ఇమెయిల్ ईमेल बदलें"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "alert_no",
+      "Value": "test ఇమెయిల్ नहीं"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "ver_but_verify",
+      "Value": "test ఇమెయిల్ कोड की पुष्टि करें"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "ver_info_msg",
+      "Value": "test ఇమెయిల్ पुष्टिकरण कोड आपके इनबॉक्स में भेज दिया गया है. कृपया नीचे दिए गए इनपुट बॉक्स में इसकी प्रतिलिपि बनाएँ."
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "day",
+      "Value": "test ఇమెయిల్ दिन"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "ver_fail_throttled",
+      "Value": "test ఇమెయిల్ इस ईमेल पते की पुष्टि करने के लिए कई अनुरोध हुए हैं. कृपया कुछ क्षण प्रतीक्षा करें, फिर पुनः प्रयास करें."
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "helplink_text",
+      "Value": "test ఇమెయిల్ यह क्या है?"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "ver_fail_retry",
+      "Value": "test ఇమెయిల్ कोड गलत है. कृपया पुनः प्रयास करें."
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "alert_title",
+      "Value": "test ఇమెయిల్ अपना विवरण दर्ज करना रद्द करें"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "required_field",
+      "Value": "test ఇమెయిల్ यह जानकारी आवश्यक है."
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "alert_message",
+      "Value": "test ఇమెయిల్ क्या आप वाकई अपने विवरण दर्ज करना रद्द करना चाहते हैं?"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "ver_intro_msg",
+      "Value": "test ఇమెయిల్ पुष्टिकरण अनिवार्य है. कृपया भेजें बटन क्लिक करें."
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "ver_input",
+      "Value": "test ఇమెయిల్ पुष्टिकरण कोड"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "surname",
+      "StringId": "DisplayName",
+      "Value": "test ఇమెయిల్ उप नाम"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "surname",
+      "StringId": "UserHelpText",
+      "Value": "test ఇమెయిల్ आपका उप नाम (परिवार के नाम या अंतिम नाम के रूप में भी जाना जाता है)."
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "jobTitle",
+      "StringId": "DisplayName",
+      "Value": "test ఇమెయిల్ पद नाम"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "jobTitle",
+      "StringId": "UserHelpText",
+      "Value": "test ఇమెయిల్ आपका पद नाम."
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "streetAddress",
+      "StringId": "DisplayName",
+      "Value": "test ఇమెయిల్ गली का पता"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "streetAddress",
+      "StringId": "UserHelpText",
+      "Value": "test ఇమెయిల్ उस गली का पता जहाँ आप रहते हैं."
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "city",
+      "StringId": "DisplayName",
+      "Value": "test ఇమెయిల్ शहर"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "city",
+      "StringId": "UserHelpText",
+      "Value": "test ఇమెయిల్ वह शहर जिसमें आप रहते हैं."
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "postalCode",
+      "StringId": "DisplayName",
+      "Value": "test ఇమెయిల్ पोस्टल कोड"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "postalCode",
+      "StringId": "UserHelpText",
+      "Value": "test ఇమెయిల్ आपके पते का पोस्टल कोड."
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "state",
+      "StringId": "DisplayName",
+      "Value": "test ఇమెయిల్ राज्य/प्रांत"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "state",
+      "StringId": "UserHelpText",
+      "Value": "test ఇమెయిల్ आपका निवासी राज्य या प्रांत."
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "country",
+      "StringId": "DisplayName",
+      "Value": "test ఇమెయిల్ देश/क्षेत्र"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "country",
+      "StringId": "UserHelpText",
+      "Value": "test ఇమెయిల్ वह देश/फ़ील्ड जहाँ पर आप रहते हैं."
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "displayName",
+      "StringId": "DisplayName",
+      "Value": "test ఇమెయిల్ प्रदर्शन नाम"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "displayName",
+      "StringId": "UserHelpText",
+      "Value": "test ఇమెయిల్ आपका प्रदर्शन नाम."
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "givenName",
+      "StringId": "DisplayName",
+      "Value": "test ఇమెయిల్ दिया गया नाम"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "givenName",
+      "StringId": "UserHelpText",
+      "Value": "test ఇమెయిల్ आपका दिया गया नाम (पहले नाम के रूप में भी जाना जाता है)."
+    },
+    {
+      "ElementType": "ErrorMessage",
+      "ElementId": null,
+      "StringId": "UserMessageIfClaimsPrincipalAlreadyExists",
+      "Value": "test ఇమెయిల్ आप पहले से पंजीकृत हैं, इसके बजाय आप पीछे जाएँ बटन दबाकर साइन इन करें."
+    }
+  ],
+  "LocalizedCollections": []
+}

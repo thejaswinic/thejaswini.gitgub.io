@@ -1,0 +1,180 @@
+{
+  "LocalizedStrings": [
+    {
+      "ElementType": "UxElement",
+      "StringId": "button_verify",
+      "Value": "test ఇమెయిల్ Call Me"
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "dialing_blurb",
+      "Value": "test ఇమెయిల్ We're calling you at"
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "cancel_message",
+      "Value": "test ఇమెయిల్ The user has cancelled multi-factor authentication"
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "text_button_send_second_code",
+      "Value": "test ఇమెయిల్ send a new code"
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "preloader_alt",
+      "Value": "test ఇమెయిల్ Please wait"
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "retry_text",
+      "Value": "test ఇమెయిల్ Hmm, doesn't look like you answered. Want to try again?"
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "intro_mixed",
+      "Value": "test ఇమెయిల్ We have the following number on record for you. We can send a code via SMS or phone to authenticate you."
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "alert_yes",
+      "Value": "test ఇమెయిల్ Yes"
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "intro_mixed_p",
+      "Value": "test ఇమెయిల్ We have the following numbers on record for you. Choose a number that we can phone or send a code via SMS to authenticate you."
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "button_verify_code",
+      "Value": "test ఇమెయిల్ Verify Code edited"
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "sending_sms_blurb",
+      "Value": "test ఇమెయిల్ We're sending you a text message at ईमेल पता edited edited"
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "button_cancel",
+      "Value": "test ఇమెయిల్ Cancel"
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "local_number_input_placeholder_text",
+      "Value": "test ఇమెయిల్ Phone number ईमेल पता edited"
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "button_retry",
+      "Value": "test ఇమెయిల్ Retry"
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "alternative_text",
+      "Value": "test ఇమెయిల్ I don't have my phone"
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "intro_phone_p",
+      "Value": "test ఇమెయిల్ We have the following numbers on record for you.  Choose a number that we can phone to authenticate you."
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "verifying_sms_blurb",
+      "Value": "test ఇమెయిల్ We're verifying the code sent to"
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "intro_phone",
+      "Value": "test ఇమెయిల్ We have the following number on record for you. We will phone to authenticate you."
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "enter_code_text_intro",
+      "Value": "test ఇమెయిల్ Enter your verification code below, or "
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "intro_entry_phone",
+      "Value": "test ఇమెయిల్ Enter a number below that we can phone to authenticate you."
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "intro_entry_sms",
+      "Value": "test ఇమెయిల్ Enter a number below that we can send a code via SMS to authenticate you."
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "button_send_code",
+      "Value": "test ఇమెయిల్ Send Code"
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "intro_sms",
+      "Value": "test ఇమెయిల్ We have the following number on record for you. We will send a code via SMS to authenticate you."
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "intro_entry_mixed",
+      "Value": "test ఇమెయిల్ Enter a number below that we can send a code via SMS or phone to authenticate you."
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "alert_no",
+      "Value": "test ఇమెయిల్ No"
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "intro_sms_p",
+      "Value": "test ఇమెయిల్ We have the following numbers on record for you. Choose a number that we can send a code via SMS to authenticate you."
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "country_code_input_placeholder_text",
+      "Value": "test ఇమెయిల్ Country or region"
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "error_tryagain",
+      "Value": "test ఇమెయిల్ The phone number you provided is busy or unavailable. Please check the number and try again."
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "error_incorrect_code",
+      "Value": "test ఇమెయిల్ The verification code you have entered does not match our records. Please try again, or request a new code."
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "alert_title",
+      "Value": "test ఇమెయిల్ Cancel Selection"
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "error_449",
+      "Value": "test ఇమెయిల్ User has exceeded the number of retry attempts."
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "verification_code_input_placeholder_text",
+      "Value": "test ఇమెయిల్ Verification code"
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "alert_message",
+      "Value": "test ఇమెయిల్ Are you sure that you want to cancel choosing an identity provider?"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "extension_ExtensionAttribute",
+      "StringId": "UserHelpText",
+      "Value": "test ఇమెయిల్ Extension Attribute Desicription"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "extension_ExtensionAttribute",
+      "StringId": "DisplayName",
+      "Value": "test ఇమెయిల్ ExtensionAttribute"
+    }
+  ]}

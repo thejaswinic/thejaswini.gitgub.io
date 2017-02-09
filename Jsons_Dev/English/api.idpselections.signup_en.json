@@ -1,0 +1,55 @@
+{
+  "LocalizedStrings": [
+    {
+      "ElementType": "UxElement",
+      "StringId": "already",
+      "Value": ""
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "cancel_message",
+      "Value": "The user has canceled choosing an identity provider"
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "alert_no",
+      "Value": "No"
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "alert_message",
+      "Value": "Are you sure that you want to cancel choosing an identity provider?"
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "alert_title",
+      "Value": "Cancel Selection"
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "alert_yes",
+      "Value": "Yes"
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "button_cancel",
+      "Value": "Cancel"
+    },
+    {
+      "ElementType": "UxElement",
+      "StringId": "intro",
+      "Value": "Sign in with your existing account"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "extension_ExtensionAttribute",
+      "StringId": "UserHelpText",
+      "Value": "Extension Attribute Desicription"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "extension_ExtensionAttribute",
+      "StringId": "DisplayName",
+      "Value": "ExtensionAttribute"
+    }
+  ]}

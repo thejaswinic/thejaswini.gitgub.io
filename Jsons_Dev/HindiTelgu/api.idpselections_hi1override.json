@@ -1,0 +1,107 @@
+﻿{
+  "LocalizedStrings": [
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "already",
+      "Value": "testనమూనా"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "cancel_message",
+      "Value": "testనమూనాउपयोगकर्ता ने पहचान प्रदाता का चयन रद्द कर दिया है"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "alert_no",
+      "Value": "testనమూనాनहीं"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "alert_message",
+      "Value": "testనమూనాक्या आप वाकई पहचान प्रदाता को चुनना रद्द करना चाहते हैं?"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "alert_title",
+      "Value": "testనమూనాचयन रद्द करें"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "alert_yes",
+      "Value": "testనమూనాहाँ"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "button_cancel",
+      "Value": "testనమూనాरद्द करें"
+    },
+    {
+      "ElementType": "UxElement",
+      "ElementId": null,
+      "StringId": "intro",
+      "Value": "testనమూనాसाइन इन करें"
+    },
+    {
+      "ElementType": "ClaimsProvider",
+      "ElementId": null,
+      "StringId": "SignInWithLogonNameExchange",
+      "Value": "testనమూనాस्थानीय खाता साइन-इन"
+    },
+    {
+      "ElementType": "ClaimsProvider",
+      "ElementId": null,
+      "StringId": "SignInWithLogonEmailExchange",
+      "Value": "testనమూనాस्थानीय खाता साइन-इन"
+    },
+    {
+      "ElementType": "ClaimsProvider",
+      "ElementId": null,
+      "StringId": "SignUpWithLogonNameExchange",
+      "Value": "testనమూనాउपयोगकर्ता ID साइन अप"
+    },
+    {
+      "ElementType": "ClaimsProvider",
+      "ElementId": null,
+      "StringId": "SignUpWithLogonEmailExchange",
+      "Value": "testనమూనాईमेल साइन अप"
+    },
+    {
+      "ElementType": "ClaimsProvider",
+      "ElementId": null,
+      "StringId": "MicrosoftAccountExchange",
+      "Value": "testనమూనాMicrosoft"
+    },
+    {
+      "ElementType": "ClaimsProvider",
+      "ElementId": null,
+      "StringId": "FacebookExchange",
+      "Value": "testనమూనాFacebook"
+    },
+    {
+      "ElementType": "ClaimsProvider",
+      "ElementId": null,
+      "StringId": "GoogleExchange",
+      "Value": "testనమూనాGoogle"
+    },
+    {
+      "ElementType": "ClaimsProvider",
+      "ElementId": null,
+      "StringId": "AmazonExchange",
+      "Value": "testనమూనాAmazon"
+    },
+    {
+      "ElementType": "ClaimsProvider",
+      "ElementId": null,
+      "StringId": "LinkedInExchange",
+      "Value": "testనమూనాLinkedIn"
+    }
+  ],
+  "LocalizedCollections": []
+}
